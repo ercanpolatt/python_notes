@@ -33,10 +33,10 @@ for (x,y,z) in my_tuple_list:
 
 my_dictionary = {"k1":100,"k2":200,"k3":300}
 
-my_dictionary.items()
-dict_items([('k1', 100), ('k2', 200), ('k3', 300)])
-for (key,value) in my_dictionary.items():
-    print(value)
+# my_dictionary.items()
+# dicitems([('k1', 100), ('k2', 200), ('k3', 300)])
+# for (key,value) in my_dictionary.items():
+#     print(value)
 # 100
 # 200
 # 300
@@ -45,3 +45,24 @@ for num in my_dictionary.values():
 # 100
 # 200
 # 300
+
+print(list(range(10)))
+
+#enumerate
+
+my_list = [20,30,40,50,60]
+for element in enumerate(my_list):
+    print(element)
+(0, 20)
+(1, 30)
+(2, 40)
+(3, 50)
+(4, 60)
+for (ix,value) in enumerate(my_list):
+    print(value)
+20
+30
+40
+50
+60
+
