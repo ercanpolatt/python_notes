@@ -66,3 +66,6 @@ for (ix,value) in enumerate(my_list):
 50
 60
 
+#deneme
+
+
