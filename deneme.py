@@ -91,6 +91,7 @@
 # new_list = []
 # my_string = "metallica"
 
+<<<<<<< HEAD
 # for element in my_string:
 #     new_list.append(element)
 
@@ -151,3 +152,8 @@ number_list = [5,7,18,21,20,10,405,24]
 # cevap
 # cevap
 # cevap
+=======
+#deneme
+
+
+>>>>>>> 00759d2e714c35712743acde65cd5a911f569131
