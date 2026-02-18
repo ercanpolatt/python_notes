@@ -92,5 +92,6 @@
 # my_string = "metallica"
 
 #deneme
+#deneme2
 
 
