@@ -93,4 +93,10 @@
 
 #deneme
 
+def divideNumber(number):
+    return number / 2
 
+myList = [3,5,7,10,20,30]
+
+for num in myList:
+    print(divideNumber(num))
