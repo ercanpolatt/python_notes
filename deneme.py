@@ -105,3 +105,4 @@ for num in myList:
 
 # dal branchinde yaptigim degisiklikler.
 # deneme3
+#sonraki deneme
