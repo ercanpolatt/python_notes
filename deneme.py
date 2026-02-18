@@ -101,3 +101,7 @@ myList = [3,5,7,10,20,30]
 
 for num in myList:
     print(divideNumber(num))
+
+
+# dal branchinde yaptigim degisiklikler.
+# deneme3
