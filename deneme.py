@@ -92,6 +92,7 @@
 # my_string = "metallica"
 
 #deneme
+#deneme2
 
 def divideNumber(number):
     return number / 2
